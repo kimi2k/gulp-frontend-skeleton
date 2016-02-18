@@ -17,3 +17,9 @@ Than install dependencies:
 ```bash
 npm install
 ```
+
+## Run it
+
+```bash
+grunt
+```
